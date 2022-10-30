@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+body{
+    background: rgb(145, 219, 248);
+}
+.wrapper{
+    width: 900px;
+    margin: 30px auto;
+    text-align: center;
+    margin: 250px;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 2.6em;
+    text-transform: uppercase;
+}
+#tens, #seconds{
+    font-size: 3em;
+}
+button{
+    background-color: black;
+    color: antiquewhite;
+    padding: 15px;
+    cursor: pointer;
+margin: 10px;
+font-size: 1.2em;
+border: 2px solid white;
+box-shadow: 2px 2px 10px black;
+}
+button:hover{
+    background-color: rgb(72, 72, 141);
+    
+
+}
